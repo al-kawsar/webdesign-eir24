@@ -1,0 +1,13 @@
+body {
+    background-image: url('../aset-gambar/120.png');
+}
+
+.footer-hero {
+    display: flex;
+    background: var(--black-color);
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+}
+
+
