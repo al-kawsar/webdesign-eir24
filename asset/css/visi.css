@@ -1,5 +1,5 @@
 body {
-    background-image: url('../aset-gambar/120.png');
+    background-image: url("../aset-gambar/120.png");
 }
 
 .footer-hero {
@@ -9,5 +9,3 @@ body {
     justify-content: center;
     padding: 2rem;
 }
-
-
