@@ -89,11 +89,8 @@ img {
     padding-left: 2em;
 }
 
-
-
-/* Footer Styles */
 footer {
-    background-color: #2c3e50;
+    background-color: var(--red-color);
     color: #fff;
     padding: 3rem 0 0;
     margin-top: 4rem;
