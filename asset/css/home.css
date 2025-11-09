@@ -156,37 +156,6 @@ video {
 /*    background-image: url('../aset-gambar/100.png');*/
 }
 
-.footer-hero {
-    display: flex;
-    background-image: url('../aset-gambar/120.png');
-    flex-direction: column;
-    justify-content: center;
-    padding: 2rem;
-}
-
-.footer-hero .footer-1 img {
-    width:50px;
-    border-radius: 1rem;
-    height: auto;
-}
-
-.footer-hero .footer-1 {
-    display: flex;
-    margin-bottom: 1rem;
-    gap: 1.5rem;
-}
-
-.footer-2 {
-    display: flex;
-    gap: 1rem;
-    justify-content:space-between;
-}
-
-.footer-hero img {
-    width:20px;
-    height: 20px;
-    cursor: pointer;
-}
 
 .left h3 {
     margin-bottom: 1rem;
